@@ -5,20 +5,6 @@ A set of components for the [SubDAO](https://endgame.makerdao.com/subdaos/overvi
 
 <!-- vim-markdown-toc GFM -->
 
-- [Components](#components)
-  - [`SubProxy`](#subproxy)
-  - [`SDAO`](#sdao)
-  - [Farms](#farms)
-    - [`VestedRewardsDistribution`](#vestedrewardsdistribution)
-    - [`StakingRewards`](#stakingrewards)
-- [Contributing](#contributing)
-  - [Requirements](#requirements)
-  - [Install dependencies](#install-dependencies)
-  - [Build](#build)
-  - [Run tests](#run-tests)
-
-<!-- vim-markdown-toc -->
-
 ## Components
 
 ### `SubProxy`
